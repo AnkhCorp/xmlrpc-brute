@@ -1,5 +1,7 @@
 # WordPress XML-RPC Bruteforce Tool
 
+![Image](https://github.com/user-attachments/assets/1be07cdd-0bf7-4cf0-9bfc-cc2d247b5eec)
+
 A tool designed to test WordPress sites for XML-RPC vulnerabilities by attempting to brute force user credentials through the XML-RPC interface.
 
 ## Description
